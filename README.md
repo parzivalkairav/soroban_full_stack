@@ -1,1 +1,1 @@
-# soroban_full_stack
+Decentralized Identity through zk-tech on Stellar.
